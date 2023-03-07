@@ -8,13 +8,14 @@ path_in  = "raw_data"<br />
 path_out = "data_ana001"
 
 # ana_002.m
-This script averages experiment data per subcategory and saves result as a table
+This script averages experiment data per subcategory and saves result as a table.
+Output files serve as input data for the ANOVAs and chi-squared test in SPSS
 
 path_in  = "data_ana001"<br />
 path_out = "data_ana002"
 
 # ana_003.m
-This script averages over each type (criminal, spy, neutral) and serves as generating input data for the ANOVA
+This script averages over each type (criminal, spy, neutral) 
 
 path_in  = "data_ana002"<br />
 path_out = "data_ana003"
