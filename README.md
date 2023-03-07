@@ -1,5 +1,5 @@
 # Shamem
-data analysis for project Shamem
+data analysis for project Shamem. Files are designed for analyzing the pilot study 
 
 # ana_001.m
 This script reads and cleans the data in the csv files provided by the shamem framework
