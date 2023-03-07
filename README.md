@@ -23,3 +23,9 @@ path_out = "data_ana003"
 
 # plot_results.m
 This script plots the mean values of measured variables for encoding, retrieval and secret job task
+
+# Helper files
+cleanData.m<br />
+getVarName.m<br />
+plotData.m<br />
+violin.m
